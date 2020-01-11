@@ -1,0 +1,8 @@
+
+yarn run v1.21.1
+$ yarn connect:deviceName Thingy -e "save()" -w ./src/main.js
+$ espruino -d Thingy -e 'save()' -w ./src/main.js
+Espruino Command-line Tool 0.1.30
+-----------------------------------
+
+Searching for device named "Thingy"

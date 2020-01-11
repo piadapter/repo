@@ -1,0 +1,45 @@
+
+[J{ "temperature": 19.24006276150, "humidity": 44.62307225784 }
+{ "temperature": 19.24006276150, "humidity": 44.62307225784 }
+>[J{ "temperature": 19.22158298465, "humidity": 43.94546005891 }
+{ "temperature": 19.22158298465, "humidity": 43.94546005891 }
+>[J{ "temperature": 19.22158298465, "humidity": 43.20966903482 }
+{ "temperature": 19.22158298465, "humidity": 43.20966903482 }
+>[J{ "temperature": 19.11070432357, "humidity": 42.37463177958 }
+{ "temperature": 19.11070432357, "humidity": 42.37463177958 }
+>[J{ "temperature": 19.18462343096, "humidity": 43.57243112112 }
+{ "temperature": 19.18462343096, "humidity": 43.57243112112 }
+>[J{ "temperature": 19.16614365411, "humidity": 41.66621902616 }
+{ "temperature": 19.16614365411, "humidity": 41.66621902616 }
+>[J{ "temperature": 19.14766387726, "humidity": 43.06935539767 }
+{ "temperature": 19.14766387726, "humidity": 43.06935539767 }
+>[J{ "temperature": 19.22158298465, "humidity": 42.16587246577 }
+{ "temperature": 19.22158298465, "humidity": 42.16587246577 }
+>[J{ "temperature": 19.29550209205, "humidity": 43.72301160977 }
+{ "temperature": 19.29550209205, "humidity": 43.72301160977 }
+>[J{ "temperature": 19.25854253835, "humidity": 42.64841448622 }
+{ "temperature": 19.25854253835, "humidity": 42.64841448622 }
+>[J{ "temperature": 19.31398186889, "humidity": 42.50810084907 }
+{ "temperature": 19.31398186889, "humidity": 42.50810084907 }
+>[J{ "temperature": 19.35094142259, "humidity": 44.20897591405 }
+{ "temperature": 19.35094142259, "humidity": 44.20897591405 }
+>[J{ "temperature": 19.24006276150, "humidity": 42.71686016288 }
+{ "temperature": 19.24006276150, "humidity": 42.71686016288 }
+>[J{ "temperature": 19.24006276150, "humidity": 42.08715993761 }
+{ "temperature": 19.24006276150, "humidity": 42.08715993761 }
+>[J{ "temperature": 19.25854253835, "humidity": 43.28153699532 }
+{ "temperature": 19.25854253835, "humidity": 43.28153699532 }
+>[J{ "temperature": 19.05526499302, "humidity": 42.83321781320 }
+{ "temperature": 19.05526499302, "humidity": 42.83321781320 }
+>[J{ "temperature": 19.12918410041, "humidity": 41.98449142263 }
+{ "temperature": 19.12918410041, "humidity": 41.98449142263 }
+>[J{ "temperature": 19.20310320781, "humidity": 44.23977646854 }
+{ "temperature": 19.20310320781, "humidity": 44.23977646854 }
+>[J{ "temperature": 19.12918410041, "humidity": 42.56627967423 }
+{ "temperature": 19.12918410041, "humidity": 42.56627967423 }
+>[J{ "temperature": 19.22158298465, "humidity": 43.96941604574 }
+{ "temperature": 19.22158298465, "humidity": 43.96941604574 }
+>[J{ "temperature": 19.31398186889, "humidity": 43.58269797262 }
+{ "temperature": 19.31398186889, "humidity": 43.58269797262 }
+>
+Done in 39.63s.
